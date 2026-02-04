@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xri version="1.0">
+   <!-- PIAdvisor PixInsight Update Repository -->
+   <description>
+      <p>PIAdvisor update feed for PixInsight.</p>
+      <p>
+         <b>Status:</b> No public packages are published yet.</p>
+   </description>
+   <platform os="windows" arch="x64" version="1.8.9:1.9.99"/>
+</xri>
+<Signature developerId="4886550287059908" timestamp="2026-02-04T04:18:32.771Z" encoding="Base64">HmMRfHUYXwHT5aNakPjBYvU5CRsrTuQBvy0flWckbIezfvSuuqIf9wFDOJAeXs7m8fBalXnN/I9cxUzFDg1vDQ==</Signature>
