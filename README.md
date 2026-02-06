@@ -10,7 +10,7 @@ This repository is the PixInsight update feed for **PIAdvisor**. It hosts:
 Add the GitHub Pages URL for this repo in PixInsight:
 
 ```text
-https://phatwila.github.io/PIAdvisor/
+https://phatwila.github.io/PIAdvisor-Release/
 ```
 
 Tip: PixInsight is sensitive to redirects. Use the exact URL that serves `updates.xri` directly.
@@ -20,7 +20,7 @@ Tip: PixInsight is sensitive to redirects. Use the exact URL that serves `update
 No public packages are published yet (awaiting CPD approval). You can still browse the documentation at:
 
 ```text
-https://phatwila.github.io/PIAdvisor/docs/
+https://phatwila.github.io/PIAdvisor-Release/docs/
 ```
 
 ## Install in PixInsight
