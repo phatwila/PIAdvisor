@@ -6,6 +6,8 @@
       <p>
          <b>Status:</b> No public packages are published yet.</p>
    </description>
-   <platform os="windows" arch="x64" version="1.8.9:1.9.99"/>
+   <platform os="windows" arch="x64" version="1.8.9:1.9.99">
+      <package fileName="packages/PIAdvisor-1.0.0-20260206.zip" sha1="99dee8f0b0104e4fac46cb66f4d0bbaa9363766d" releaseDate="20260206"/>
+   </platform>
 </xri>
-<Signature developerId="4886550287059908" timestamp="2026-02-04T04:18:32.771Z" encoding="Base64">HmMRfHUYXwHT5aNakPjBYvU5CRsrTuQBvy0flWckbIezfvSuuqIf9wFDOJAeXs7m8fBalXnN/I9cxUzFDg1vDQ==</Signature>
+<Signature developerId="4886550287059908" timestamp="2026-02-06T19:58:52.845Z" encoding="Base64">YtXdLOXsO1w/oFJoT7BOce9tJ98H68hINJE/FHWTXfnBDSCJD1qlCNj88s1IEcTYOac/+MaUojq2LZd6IjjABw==</Signature>
